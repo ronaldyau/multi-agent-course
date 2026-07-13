@@ -1,8 +1,8 @@
 # Product Evaluation — Live Translate
 
-- **Student:** <YOUR NAME — fill before submitting>
-- **Date:** 2026-07-12
-- **Video demo:** <VIDEO URL — record 60–90s and paste here>
+- **Student:** Ronald Yau
+- **Date:** 2026-07-13
+- **Video demo:** https://www.loom.com/share/8a0b53cf71d946eba7ca9d17dcaa12db
 - **LLM provider / model:** Anthropic / `claude-sonnet-4-6`
 - **Backend target:** `https://fde-live-translate-gw.fly.dev` (deployed) — Node gateway → Python AI service, both on Fly.io. (Benchmark numbers below were captured locally.)
 
